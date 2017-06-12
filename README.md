@@ -6,8 +6,7 @@ Initial script/idea from Voxelity.
 This script handles the emergency lights and the siren seperately.
 
 
-GitHub:
-https://github.com/shotaxx/sirens​
+
 
 It has 3 variants you can choose from:
 
