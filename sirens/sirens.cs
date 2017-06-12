@@ -114,7 +114,7 @@ public class Sirens : Script
 		}
 	}
 	//Command to toggle the ELS on/off. You can also implement it in youre own player-menus pretty easy.
-	[Command("elstog")]
+	[Command("togels")]
     public void elstoggle(Client player)
     {
 		if (variant != 3) return;
