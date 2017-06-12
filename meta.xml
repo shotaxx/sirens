@@ -1,0 +1,10 @@
+<meta>
+	<info name="Sirens" description="A Siren controller for emergency vehicles. Credits to Voxelity for the initial script." author= "shotaxx" version="1.0" type="script"/>
+	
+	<script src="sirens.cs" type="server" lang="csharp" />
+	<script src="client.js" type="client" lang="javascript" />
+	
+	<settings>
+    	<setting name="sirens_variant" value="3" description="The control variant. 1: Press G to toggle the siren on/off, 2: Press E to toggle between: ELS/Siren on, ELS on/Siren off, Both off, 3: ELS-Lights via command." />
+    </settings>
+</meta>
