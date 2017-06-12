@@ -25,6 +25,6 @@ Variant 3:
 Toggles the ELS-Lights via the command /togels
 The siren gets controlled via E Key
 
-  -
-  
+
+
 You can configure it in the meta.xml.
